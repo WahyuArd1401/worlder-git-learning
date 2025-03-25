@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>Hello world</h1>
       <Fitur1 />
-      <Fitur2/>
+      <Fitur2 />
     </>
   )
 }
